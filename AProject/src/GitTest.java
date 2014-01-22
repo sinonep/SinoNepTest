@@ -8,6 +8,7 @@ public class GitTest {
 		System.out.println("Tuo was here from computer");
 		System.out.println("Samip has seen Tuo's change");
 		System.out.println("Stephen was here through web.Still Downloading.");
+		System.out.println("Finally done.");
 	}
 	
 	
