@@ -6,6 +6,7 @@ public class GitTest {
 		System.out.println("Samip was here");
 		System.out.println("Tuo was here");
 		System.out.println("Tuo was here from computer");
+		System.out.println("Samip has seen Tuo's change");
 	}
 	
 	
